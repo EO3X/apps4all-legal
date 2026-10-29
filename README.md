@@ -1,8 +1,6 @@
-# Apps4All · Polítiques de privadesa
+# Apps4All · Polítiques de privadesa (traslladades)
 
-Pàgines públiques (GitHub Pages) amb les polítiques de privadesa de les apps d'Apps4All.
+Les polítiques de privadesa de les apps d'Apps4All ara són al web del projecte:
+https://apps4all-cat.github.io/privacitat/
 
-- VisualPhone: https://eo3x.github.io/apps4all-legal/visualphone/
-- Botó d'ajuda: https://eo3x.github.io/apps4all-legal/ajuda/
-- Mis Tarjetas: https://eo3x.github.io/apps4all-legal/targetes/
-- Països i Capitals: https://eo3x.github.io/apps4all-legal/paisos/
+Les pàgines d'aquest repositori només redirigeixen a les adreces noves, perquè cap enllaç antic quedi trencat.
